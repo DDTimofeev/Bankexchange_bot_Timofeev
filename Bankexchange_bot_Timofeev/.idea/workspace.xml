@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19de79cf-80f8-4e32-9eab-4dff1c6f9aaf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../C2.5_sea_battle/.idea/C2.5_sea_battle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imports/.idea/Imports.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imports/mylibrary/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imports/mylibrary/myfunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imports/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imports/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imports/tests/test_myfunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MemeBot/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MemeBot/.idea/MemeBot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MemeBot/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MemeBot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MemeBot/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MemeBot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SkillF_B5/.idea/SkillF_B5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SkillF_B5/3333.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic_tac_toe/.idea/Tic_tac_toe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_bot_Timofeev/.idea/crypto_bot_Timofeev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_bot_Timofeev/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_bot_Timofeev/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_bot_Timofeev/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloWorld/.idea/helloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parser/.idea/parser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parser/1111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_practice/.idea/python_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_project/.idea/test_project.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FloMfU8334Nh9WR6z7Y4I1jGD9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Bankexchange_bot_Timofeev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19de79cf-80f8-4e32-9eab-4dff1c6f9aaf" name="Changes" comment="" />
+      <created>1665075986070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665075986070</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Создание бота курса валют">
+      <created>1665076170765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665076170765</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Создание бота курса валют" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание бота курса валют" />
+  </component>
+</project>
